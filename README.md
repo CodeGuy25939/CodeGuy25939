@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# About Me:
+I am the CodeGuy25939. I sometimes like to code.
 <!--
 **CodeGuy25939/CodeGuy25939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
